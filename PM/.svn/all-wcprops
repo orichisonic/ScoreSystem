@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/Developer/!svn/ver/5557/ScoreSystem/ScoreSystem/Views/PM
+END
+Apply.aspx
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/Developer/!svn/ver/5557/ScoreSystem/ScoreSystem/Views/PM/Apply.aspx
+END
+ClockingInQuery.aspx
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/Developer/!svn/ver/5557/ScoreSystem/ScoreSystem/Views/PM/ClockingInQuery.aspx
+END
+Examine.aspx
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/Developer/!svn/ver/5557/ScoreSystem/ScoreSystem/Views/PM/Examine.aspx
+END
+Punish.aspx
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/Developer/!svn/ver/5557/ScoreSystem/ScoreSystem/Views/PM/Punish.aspx
+END
+UserModify.aspx
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/Developer/!svn/ver/5557/ScoreSystem/ScoreSystem/Views/PM/UserModify.aspx
+END
+UserManager.aspx
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/Developer/!svn/ver/5557/ScoreSystem/ScoreSystem/Views/PM/UserManager.aspx
+END
+PunishQuery.aspx
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/Developer/!svn/ver/5557/ScoreSystem/ScoreSystem/Views/PM/PunishQuery.aspx
+END
+UserQuerySlave.aspx
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/Developer/!svn/ver/5557/ScoreSystem/ScoreSystem/Views/PM/UserQuerySlave.aspx
+END
+ClockingIn.aspx
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/Developer/!svn/ver/5557/ScoreSystem/ScoreSystem/Views/PM/ClockingIn.aspx
+END
+UserQueryMaster.aspx
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/Developer/!svn/ver/5557/ScoreSystem/ScoreSystem/Views/PM/UserQueryMaster.aspx
+END
+UserQuery.aspx
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/Developer/!svn/ver/5557/ScoreSystem/ScoreSystem/Views/PM/UserQuery.aspx
+END

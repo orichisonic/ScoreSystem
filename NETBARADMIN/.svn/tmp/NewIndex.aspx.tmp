@@ -1,0 +1,22 @@
+<%@ Page Title="" Language="C#" MasterPageFile="~/Views/Shared/NetBar.Master" Inherits="System.Web.Mvc.ViewPage<IEnumerable<TGProject.Models.News>>" %>
+<%@ Import Namespace ="TGProject.Models" %>
+<%@ Import Namespace="TGProject.GridView" %>
+
+<asp:Content ID="Content1" ContentPlaceHolderID="TitleContent" runat="server">
+	一卡通平台后台管理中心
+</asp:Content>
+
+<asp:Content ID="Content2" ContentPlaceHolderID="MainContent" runat="server">
+    <h1>
+    <span>
+      - 新闻列表 
+    </span>
+</h1>
+<div class="list-div" id="listDiv">
+<%OperateButton[] buttons = { new OperateButton("编辑新闻", "EDITNEWS"), new OperateButton("禁用", "DownNews"), new OperateButton("激活", "StartNews"), new OperateButton("删除", "DeleteNews") }; %>
+<%=Html.GridView<News>(Model, new string[] { "ID", "TIME", "TITLE", "TypeName" }, new GridViewOption(new string[] { "ID", "日期", "标题", "状态", "操作" }), buttons)%>
+</div> 
+</asp:Content>
+
+<asp:Content ID="Content3" ContentPlaceHolderID="HeaderContent" runat="server">
+</asp:Content>

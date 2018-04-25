@@ -1,0 +1,113 @@
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/Developer/!svn/ver/7411/ScoreSystem/ScoreSystem/Views/Shared
+END
+ExamineDetailInfo.ascx
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/Developer/!svn/ver/5557/ScoreSystem/ScoreSystem/Views/Shared/ExamineDetailInfo.ascx
+END
+ExamineControl.ascx
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/Developer/!svn/ver/5557/ScoreSystem/ScoreSystem/Views/Shared/ExamineControl.ascx
+END
+CardPush1.Master
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/Developer/!svn/ver/6027/ScoreSystem/ScoreSystem/Views/Shared/CardPush1.Master
+END
+NetManagerDetailInfo.aspx
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/Developer/!svn/ver/5557/ScoreSystem/ScoreSystem/Views/Shared/NetManagerDetailInfo.aspx
+END
+ExamineConditionControl.ascx
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/Developer/!svn/ver/5557/ScoreSystem/ScoreSystem/Views/Shared/ExamineConditionControl.ascx
+END
+ScoreSystem1.Master
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/Developer/!svn/ver/6998/ScoreSystem/ScoreSystem/Views/Shared/ScoreSystem1.Master
+END
+Site.Master
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/Developer/!svn/ver/5557/ScoreSystem/ScoreSystem/Views/Shared/Site.Master
+END
+RecordDetailShow.ascx
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/Developer/!svn/ver/5557/ScoreSystem/ScoreSystem/Views/Shared/RecordDetailShow.ascx
+END
+CarPush.Master
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/Developer/!svn/ver/5557/ScoreSystem/ScoreSystem/Views/Shared/CarPush.Master
+END
+Error.aspx
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/Developer/!svn/ver/6453/ScoreSystem/ScoreSystem/Views/Shared/Error.aspx
+END
+NETBAR.Master
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/Developer/!svn/ver/6447/ScoreSystem/ScoreSystem/Views/Shared/NETBAR.Master
+END
+ScoreSystem.Master
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/Developer/!svn/ver/7411/ScoreSystem/ScoreSystem/Views/Shared/ScoreSystem.Master
+END
+UserDetailInfo.ascx
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/Developer/!svn/ver/5557/ScoreSystem/ScoreSystem/Views/Shared/UserDetailInfo.ascx
+END
+RecordDetailInfo.ascx
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/Developer/!svn/ver/5557/ScoreSystem/ScoreSystem/Views/Shared/RecordDetailInfo.ascx
+END
+LogOnUserControl.ascx
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/Developer/!svn/ver/5557/ScoreSystem/ScoreSystem/Views/Shared/LogOnUserControl.ascx
+END
+ExamineComboConditionControl.ascx
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/Developer/!svn/ver/5557/ScoreSystem/ScoreSystem/Views/Shared/ExamineComboConditionControl.ascx
+END
+TipMessage.aspx
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/Developer/!svn/ver/5557/ScoreSystem/ScoreSystem/Views/Shared/TipMessage.aspx
+END
+DataGridControl.ascx
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/Developer/!svn/ver/5557/ScoreSystem/ScoreSystem/Views/Shared/DataGridControl.ascx
+END
